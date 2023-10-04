@@ -11,7 +11,7 @@ message = """\
 Subject: GitHub Email Report
 
 This is your daily report from Login server..
-Author: Marco Corrales Cardenas
+Author: 
 Year: 2023
     """
 
