@@ -10,7 +10,9 @@ Password = os.environ.get('USER_PASSWORD')
 message = """\
 Subject: GitHub Email Report
 
-This is your daily report
+This is your daily report from Login server..
+Author: Marco Corrales Cardenas
+Year: 2023
     """
 
 context = ssl.create_default_context
